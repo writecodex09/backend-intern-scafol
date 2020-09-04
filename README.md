@@ -1,8 +1,7 @@
 # backend-intern-scafol
-
-# Question number 1
 This repository contains the answers to the backend developer internship test at Scafol. In this test, I used the Go programming language using GORM, Mux, MySql
 
+# question number 1
 From the questions given, there are three requirements, namely
 1. Create a discussion
 2. See all the existing discussions
